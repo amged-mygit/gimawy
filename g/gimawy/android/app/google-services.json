@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "494176179111",
+    "project_id": "gimawy-42417",
+    "storage_bucket": "gimawy-42417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494176179111:android:cdf618bc6fbb771ac15c82",
+        "android_client_info": {
+          "package_name": "com.example.gimawy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494176179111-beebc1tule7s3pibse4ldmde97jrnp72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpFlVcTX_kYMCqUefSNxRWZT9Q56m9LQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494176179111-beebc1tule7s3pibse4ldmde97jrnp72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494176179111-na3aotoetc15u2l3uvflplqq8i4dsc9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gimawy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
